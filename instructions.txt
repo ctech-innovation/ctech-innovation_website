@@ -1,0 +1,1 @@
+I have installed XAMPP to run Apache and MySQL for localhost server
